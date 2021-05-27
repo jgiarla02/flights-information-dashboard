@@ -27,7 +27,7 @@ year_list = [i for i in range(2005, 2021, 1)]
 
 """Compute graph data for creating yearly airline performance report 
 
-Function that takes airline data as input and create 5 dataframes based on the grouping condition to be used for plottling charts and grphs.
+Function that takes airline data as input and create 5 dataframes based on the grouping condition to be used for plottling charts and graphs.
 
 Argument:
      
